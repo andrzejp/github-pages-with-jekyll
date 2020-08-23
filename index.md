@@ -1,3 +1,3 @@
-# Welcome to my blog
+# The personal blog of Andrzej Prochyra
 
-I'm glad you are here. I plan to talk about ...
+Hello. Welcome. Here I will talk about things that interest me.
